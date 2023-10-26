@@ -34,12 +34,12 @@ You need PHP >= `7.4`.
 ### Composer
 
 - Install via [composer](https://packagist.org/packages/mobiledetect/mobiledetectlib).
-`composer require mobiledetect/mobiledetectlib:3.74`
+`composer require jpry/mobiledetectlib:3.74`
 - Include the dependency in the `composer.json` file:
   ```json
   {
       "require": {
-          "mobiledetect/mobiledetectlib": "^3.74"
+          "jpry/mobiledetectlib": "^3.74"
       }
   }
   ```
