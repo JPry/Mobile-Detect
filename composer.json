@@ -26,8 +26,12 @@
             "src/MobileDetect.php"
         ],
         "psr-4": {
-            "Detection\\": "src/",
-            "DetectionTests\\": "tests/"
+            "Detection\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Detection\\Tests\\": "tests/"
         }
     },
     "archive": {
